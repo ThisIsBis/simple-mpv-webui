@@ -170,6 +170,7 @@ snapshots["test_status 1"] = {
     "chapter-list": [],
     "chapters": 0,
     "duration": 6.024,
+    "end": "none",
     "filename": "01 - dummy.mp3",
     "fullscreen": False,
     "loop-file": False,
@@ -197,6 +198,7 @@ snapshots["test_status 1"] = {
     "position": -0.0,
     "remaining": 6.024,
     "speed": 1,
+    "start": "none",
     "sub-delay": 0,
     "track-list": [
         {
